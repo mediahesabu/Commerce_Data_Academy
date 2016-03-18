@@ -1,2 +1,2 @@
 # Commerce_Data_Academy
-My GitHub Repository for the Department of Commerse Data Academy
+My GitHub Repository for the Department of Commerce Data Academy
